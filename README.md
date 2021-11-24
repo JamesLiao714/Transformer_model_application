@@ -14,9 +14,9 @@
 
      ` Bert-fine-tune.ipynb `
 - IMDb datasets
-     
-   ![alt text](./Datasets.png)
+
+   <img src="./Datasets.png" width="200">
 
 - Performance
 
-    ![alt text](./performance.png)
+    <img src="./performance.png" width="200">
