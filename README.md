@@ -11,3 +11,13 @@
     
     `` pytorch-sentence-similarity.ipynb ``
 
+3. Fine tuning bert
+
+- IMDb datasets
+     
+    ![alt text](./Datasets.png)
+
+- Performance
+
+    ![alt text](./performance.png)
+    `` Bert-fine-tune.ipynb ``
