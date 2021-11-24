@@ -2,22 +2,21 @@
 - Run on Ubuntu server
 - To install torch, please run
 
-    ``` conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch ```
+    `` conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch ``
 
-1. Chinese question answering machine
-
-    `` chinese_qa.ipynb ``
-2. Sentence similarity comparison
+1.  **Chinese question answering machine**
+    ` chinese_qa.ipynb`
+2. **Sentence similarity comparison**
     
-    `` pytorch-sentence-similarity.ipynb ``
+    ` pytorch-sentence-similarity.ipynb `
 
-3. Fine tuning bert
+3. **Fine tuning bert**
 
+     ` Bert-fine-tune.ipynb `
 - IMDb datasets
      
-    ![alt text](./Datasets.png)
+   ![alt text](./Datasets.png)
 
 - Performance
 
     ![alt text](./performance.png)
-    `` Bert-fine-tune.ipynb ``
