@@ -1,4 +1,8 @@
 # Transformer based model
+- Run on Ubuntu server
+- To install torch, please run
+
+    ``` conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch ```
 
 1. Chinese question answering machine
 
