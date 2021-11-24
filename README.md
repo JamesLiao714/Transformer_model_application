@@ -13,10 +13,10 @@
 3. **Fine tuning bert**
 
      ` Bert-fine-tune.ipynb `
-- IMDb datasets
+- **IMDb datasets**
 
-   <img src="./Datasets.png" width="200">
+   <img src="./Datasets.png" width="500">
 
-- Performance
+- **Performance**
 
-    <img src="./performance.png" width="200">
+    <img src="./performance.png" width="500">
